@@ -1,2 +1,2 @@
 # ozgur
-## test amaölı eklendi 
+## test amaçlı eklendi 
